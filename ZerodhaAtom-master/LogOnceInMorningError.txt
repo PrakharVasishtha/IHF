@@ -1,0 +1,3 @@
+SrcStockFinMessage: stale element reference: element is not attached to the page document
+  (Session info: chrome=92.0.4515.98)
+ at time :2022-02-09 18:50:19.805725

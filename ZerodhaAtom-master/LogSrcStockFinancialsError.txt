@@ -1,0 +1,8 @@
+Yearlycould not convert string to float: '—' at time :2022-02-07 22:46:45.796037
+YearlyPGHL at time :2022-02-07 22:46:45.800925
+Yearlycould not convert string to float: '—' at time :2022-02-08 10:21:28.298079
+YearlyPGHL at time :2022-02-08 10:21:28.299540
+Yearlysubstring not found at time :2022-02-08 12:39:03.283750
+YearlyVBL at time :2022-02-08 12:39:03.284194
+Yearlycould not convert string to float: '—' at time :2022-02-09 16:50:27.657504
+YearlyPGHL at time :2022-02-09 16:50:27.662027

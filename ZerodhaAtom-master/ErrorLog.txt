@@ -1,0 +1,7 @@
+list index out of range: Exception in CustHoldings, cant find Symbol in stocksid:: Symbol :GULFOILLUB
+list index out of range: Exception in CustHoldings, cant find Symbol in stocksid:: Symbol :GULFOILLUB
+list index out of range: Exception in CustHoldings, cant find Symbol in stocksid:: Symbol :GULFOILLUB
+list index out of range: Exception in CustHoldings, cant find Symbol in stocksid:: Symbol :GULFOILLUB
+list index out of range: Exception in CustHoldings, cant find Symbol in stocksid:: Symbol :GULFOILLUB
+list index out of range: Exception in CustHoldings, cant find Symbol in stocksid:: Symbol :GULFOILLUB
+list index out of range: Exception in CustHoldings, cant find Symbol in stocksid:: Symbol :GULFOILLUB
